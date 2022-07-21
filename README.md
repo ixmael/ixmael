@@ -2,7 +2,7 @@
 
 Soy Ixmael y soy programador.
 
-- 🔭 Actualmente trabajo en @boyonetio
+- 🔭 Actualmente trabajo en @bayonetio
 - 💬 Pregúntame acerca de ciencias
 - 📫 How to reach me: irm.mx
 - 😄 Pronombres: chí-ño
