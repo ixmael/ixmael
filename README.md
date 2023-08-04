@@ -1,6 +1,6 @@
-### ¡Quihubo 👋!
+### ¡Hola 👋!
 
-Soy Ixmael y soy programador.
+Soy Ismael y soy programador.
 
 - 💬 Pregúntame acerca de ciencias
 - 📫 Contacto: https://irm.mx/ y hola@irm.mx
