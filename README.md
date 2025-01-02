@@ -1,9 +1,9 @@
-### ¡Hey 👋!
+### ¡Hola 👋!
 
-Soy Ixmael y soy un developer más.
+Soy Ismael (aka ixmael) y soy un progarmador más.
 
-- 💬 Pregúntame acerca de ciencias, programación y de cómo resistir al capitalismo.
+- 💬 Pregúntame acerca de ciencias y programación.
 - 📫 Contacto: hola@irm.mx
-- 🤡 Pronombres: chí-ño.
-- ⚡ Hechos graciosos: aprendí a nadar a los 39 años.
+- 🤡 Pronombres: chí-ño
 - 🫣 Acá hay más información de mi: https://irm.mx/acerca-de-mi
+- Mi lenguaje para programar favorito es *Golang*, pero recientemente comencé a usar *csharp*
